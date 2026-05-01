@@ -1,3 +1,10 @@
+# Marshaale
+
+#
+# This program is simple note taking program.
+# allows users to add note or retrieve notes
+#
+
 def main():
     file_path = "notes.txt"
     notes = load_notes(file_path)
